@@ -2,7 +2,7 @@
 # Author:		Brandon Harris
 # Email:		brandon.harris@gmail.com
 # Date:			2022/04/10
-# Description:	This script iterated on every .CR3 file in the present directory
+# Description:	This script iterates on every .CR3 file in the present directory
 #				and overwites the camera model name (R5 C) with the original R5
 #				model name. This will impact EXIF and metadata.
 
